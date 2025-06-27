@@ -6,8 +6,6 @@
 
 A sophisticated simulation where autonomous agents evolve intelligent behaviors through genetic algorithms. Watch as simple agents learn to explore a grid world efficiently while communicating to avoid collisions.
 
-![Simulation Preview](https://via.placeholder.com/600x400/4a90e2/ffffff?text=Grid+Simulation+Preview)
-
 ## What This Project Does
 
 This isn't just another simulation—it's a **research platform** that demonstrates how artificial intelligence can emerge from the intersection of:
