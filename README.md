@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Mesa](https://img.shields.io/badge/Mesa-1.2.1-green.svg)](https://mesa.readthedocs.io/)
+[![Mesa](https://img.shields.io/badge/Mesa-2.1.4-green.svg)](https://mesa.readthedocs.io/)
 
 A sophisticated simulation where autonomous agents evolve intelligent behaviors through genetic algorithms. Watch as simple agents learn to explore a grid world efficiently while communicating to avoid collisions.
 
