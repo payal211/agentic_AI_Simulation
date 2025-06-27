@@ -72,7 +72,7 @@ Every agent carries a **2-gene genome** that defines its behavior:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/evolving-agentic-ai-sim.git
+git clone https://github.com/payal211/agentic_AI_Simulation.git
 cd evolving-agentic-ai-sim
 
 # Create virtual environment (recommended)
@@ -255,7 +255,7 @@ Ready to take this further? Try implementing:
 ### Development Setup
 ```bash
 # Fork the repository on GitHub
-git clone https://github.com/yourusername/evolving-agentic-ai-sim.git
+git clone https://github.com/payal211/agentic_AI_Simulation.git
 cd evolving-agentic-ai-sim
 
 # Create a development branch
